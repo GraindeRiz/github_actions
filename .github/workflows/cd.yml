@@ -1,0 +1,6 @@
+name: Execute test on PULL REQUEST
+
+on:
+  pull_request:
+    branches: [main]
+
